@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Ayush Here
 # 💫 About Me:
-🧑‍💻 I’m Developed a To-Do web application using Java, Spring Boot, Hibernate, and MySQL.<br>🤝 I’m looking to collaborate on Full-stack development projects, especially those involving Java, Spring Boot, and modern web technologies.<br>🤔 I’m looking for help with Optimizing backend performance and integrating advanced UI/UX design techniques.<br>🌱 I’m currently learning Advanced Hibernate features and cloud deployment of Java applications.<br>💬 Ask me about:<br>How to build a responsive, dynamic web application using Spring Boot and Hibernate.<br>⚡ Fun fact:<br>I love coding solutions that make day-to-day tasks easier—like building a To-Do app that keeps me organized!<br><br>
+🧑‍💻 I have Developed a To-Do web application using Java, Spring Boot, Hibernate, and MySQL.<br>🤝 I’m looking to collaborate on Full-stack development projects, especially those involving Java, Spring Boot, and modern web technologies.<br>🤔 I’m looking for help with Optimizing backend performance and integrating advanced UI/UX design techniques.<br>🌱 I’m currently learning Advanced Hibernate features and cloud deployment of Java applications.<br>💬 Ask me about:<br>How to build a responsive, dynamic web application using Spring Boot and Hibernate.<br>⚡ Fun fact:<br>I love coding solutions that make day-to-day tasks easier—like building a To-Do app that keeps me organized!<br><br>
 
 
 ## 🌐 Socials:
