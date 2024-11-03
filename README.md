@@ -1,9 +1,19 @@
-## Hi there 👋
-![Ayush's Picture](https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg)
-# Ayush Here
-# 💫 About Me:
-🧑‍💻 I have Developed a To-Do web application using Java, Spring Boot, Hibernate, and MySQL.<br>🤝 I’m looking to collaborate on Full-stack development projects, especially those involving Java, Spring Boot, and modern web technologies.<br>🤔 I’m looking for help with Optimizing backend performance and integrating advanced UI/UX design techniques.<br>🌱 I’m currently learning Advanced Hibernate features and cloud deployment of Java applications.<br>💬 Ask me about:<br>How to build a responsive, dynamic web application using Spring Boot and Hibernate.<br>⚡ Fun fact:<br>I love coding solutions that make day-to-day tasks easier—like building a To-Do app that keeps me organized!<br><br>
-
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="width: 100px; height: auto; margin-right: 10px;">
+    <div>
+        <h2>Hi there 👋</h2>
+        <h1>Ayush Here</h1>
+        <h2>💫 About Me:</h2>
+        <p>🧑‍💻 I have Developed a To-Do web application using Java, Spring Boot, Hibernate, and MySQL.<br>
+        🤝 I’m looking to collaborate on Full-stack development projects, especially those involving Java, Spring Boot, and modern web technologies.<br>
+        🤔 I’m looking for help with Optimizing backend performance and integrating advanced UI/UX design techniques.<br>
+        🌱 I’m currently learning Advanced Hibernate features and cloud deployment of Java applications.<br>
+        💬 Ask me about:<br>
+        How to build a responsive, dynamic web application using Spring Boot and Hibernate.<br>
+        ⚡ Fun fact:<br>
+        I love coding solutions that make day-to-day tasks easier—like building a To-Do app that keeps me organized!</p>
+    </div>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-aman-8a177a182) 
