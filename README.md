@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="width: 100px; height: auto; margin-right: 10px;">
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="width: 120px; height: auto; margin-right: 20px; border-radius: 10px;">
     <div>
-        <h2>Hi there 👋</h2>
-        <h1>Ayush Here</h1>
-        <h2>💫 About Me:</h2>
+        <h1>Hi there 👋</h1>
+        <h2>Ayush Here</h2>
+        <h3>💫 About Me:</h3>
         <p>🧑‍💻 I have Developed a To-Do web application using Java, Spring Boot, Hibernate, and MySQL.<br>
         🤝 I’m looking to collaborate on Full-stack development projects, especially those involving Java, Spring Boot, and modern web technologies.<br>
         🤔 I’m looking for help with Optimizing backend performance and integrating advanced UI/UX design techniques.<br>
