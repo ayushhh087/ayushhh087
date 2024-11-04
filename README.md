@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" height="200" />
+  <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" height="30%" width="30%" />
 </div>
 
 # <div align="center">Ayush Here</div>  
