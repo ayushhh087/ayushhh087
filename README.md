@@ -2,10 +2,14 @@
   <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" height="30%" width="30%" />
 </div>-->
 
-<div align="cent>
-  <div style="overflow: hidden; border-radius: 12px; width: 30%; display: inline-block;">
-    <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="width: 300%; height: 30%;" />
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 4px solid #1976d2; border-radius: 16px; padding: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); background-color: #f0f4ff;">
+        <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="border-radius: 12px; width: 250px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
