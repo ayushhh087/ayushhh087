@@ -3,8 +3,11 @@
 </div>-->
 
 <div align="center">
-  <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" height="30%" width="30%" style="border-radius: 30px;" />
+  <div style="overflow: hidden; border-radius: 12px; width: 30%; display: inline-block;">
+    <img src="https://github.com/ayushhh087/ayushhh087/blob/main/30-07-2024%2010_47_50%20PM.jpg" alt="Ayush's Picture" style="width: 100%; height: auto;" />
+  </div>
 </div>
+
 
 # <div align="center">Ayush Here</div>  
 
